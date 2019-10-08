@@ -1,0 +1,11 @@
+Package: luckin-software
+Version: 1.0.0-2019.09.23
+Section: rocktech
+Priority: optional
+Depends:
+Suggests:
+Architecture: arm64
+Installed-Size: 4096
+Maintainer: rocktech
+Provides: rocktech-arb
+Description: Luckin software update for Linux.
